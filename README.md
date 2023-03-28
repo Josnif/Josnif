@@ -8,7 +8,7 @@ Hi 👋, I am a software developer who specializes on web, web3, mobile, and des
 - **Cloud and Distributed Computing**: Docker, AWS.
 - **Machine Learning**: TensorFlow, scikit-learn.
 - **Operating Systems**: Microsoft Windows, macOS, Linux.
-- **eCommerce Platforms**: Magento, WooCommerce, Shopify.
+- **CMS Platforms**: Wordpress, Magento, WooCommerce, Shopify.
 
 <!--
 **Josnif/Josnif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
