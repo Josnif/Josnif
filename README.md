@@ -65,9 +65,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josnif" alt="josnif" /></a> </p>
 
 [![MasterHead](https://c.tenor.com/BxuhqfpyRFwAAAAC/loading-system.gif)](https://josnif.vercel.app/)
-<!--
-**Josnif/Josnif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
