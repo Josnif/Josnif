@@ -18,10 +18,11 @@
 
 👀 Here are my skills:
 - **Web Development**: HTML5, CSS, Django, Node.js, Laravel, Bootstrap, Tailwindcss, Vanillajs, jQuery, React, Vuejs.
-- **App Development**: React native, Vue native, Quasar.
+- **App Development**: React native, Vue native, Quasar, Tauri.
+- **Desktop Application**: Quasar, Tauri.
 - **Programming Skills**: JavaScript, Python, PHP, AJAX, Solidity, Rust, MYSQL.
 - **Blockchain technologies**: Bitcoin, Ethereum, Solana.
-- **Cloud and Distributed Computing**: Docker, AWS.
+- **Cloud and Distributed Computing**: Docker, AWS, Google Cloud.
 - **Machine Learning**: TensorFlow, scikit-learn.
 - **Operating Systems**: Microsoft Windows, macOS, Linux.
 - **CMS Platforms**: Wordpress, Magento, WooCommerce, Shopify.
